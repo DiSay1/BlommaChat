@@ -1,0 +1,10 @@
+dev_mode = false
+
+[SSL]
+  cert_file = ""
+  key_file = ""
+  ssl = false
+
+[server]
+  address = ""
+  port = 8080
