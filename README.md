@@ -1,2 +1,2 @@
 # BlommaChat
-This is realtime chat writen on Blomma 
+Real time chat written with Blomma web server and Lua
